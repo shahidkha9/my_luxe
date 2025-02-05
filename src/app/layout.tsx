@@ -22,7 +22,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="google-site-verification" content="e81gHaHwsPOQr5MiIrm1Jryn35M5mAJjp2apcTpGnxY" />
+        <meta name="google-site-verification" content="" />
       </head>
       <body className={`${inter.variable} ${playfair.variable} font-sans`}>
         <CartProvider><Header />{children}<Footer /></CartProvider>
